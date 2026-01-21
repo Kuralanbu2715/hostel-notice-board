@@ -1,0 +1,20 @@
+body {
+    font-family: Arial;
+    margin: 40px;
+}
+
+input, textarea {
+    width: 300px;
+    display: block;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 6px 12px;
+}
+
+.notice {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
